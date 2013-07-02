@@ -8,4 +8,7 @@ This is a proof of concept. The `NUnitWrapper` project contains actual NUnit-inv
 
 ## Dependencies
 
-The `NUnitWrapper` wrapper project requires `nunit.code.dll` and `nunit.core.interfaces.dll` (v2.6.2) to be present in `lib/`.
+ * [NUnit 2.6.2][nunit-dl]:
+The `NUnitWrapper` wrapper project requires `nunit.code.dll` and `nunit.core.interfaces.dll` to be present in `lib/`.
+
+  [nunit-dl]: http://nunit.org/index.php?p=download
